@@ -1,4 +1,4 @@
-module github.com/developerwritings/graphql-example
+module sample
 
 go 1.17
 

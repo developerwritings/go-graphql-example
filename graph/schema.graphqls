@@ -9,6 +9,14 @@ type Todo {
   user: User!
 }
 
+type Todoa {
+  id: ID!
+  text: String!
+  done: Boolean!
+  user: User!
+}
+
+
 type User {
   id: ID!
   name: String!
